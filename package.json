@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chota": "^0.9.2"
+  },
+  "name": "siteprofissional",
+  "version": "1.0.0",
+  "description": "Trabalho escolar onde deveria criar um site de profissão pessoal usando HTML CSS, podendo usar uma framework ou não",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gladstone-ac/siteprofissional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gladstone-ac/siteprofissional/issues"
+  },
+  "homepage": "https://github.com/gladstone-ac/siteprofissional#readme"
+}
