@@ -6,13 +6,11 @@
 
 ## Introdução
 
-Originalmente, seria usado um _gerador de site estáticos_ com [Markdown](https://www.markdownguide.org/) apenas, altenativas foram: [jekyll](https://jekyllrb.com/); [linkyee](https://github.com/ZhgChgLi/linkyee); e [as páginas do Github](https://pages.github.com/) - a "melhor" opção no momento -; porém, pela falta de ferramentas _simplicidade_ ao meu ver, usei uma framework no lugar^[1].
+Originalmente, seria usado um _gerador de site estáticos_ com [Markdown](https://www.markdownguide.org/) apenas; altenativas foram: [jekyll](https://jekyllrb.com/); [linkyee](https://github.com/ZhgChgLi/linkyee); e [as páginas do Github](https://pages.github.com/) - a "melhor" opção no momento; porém, pela falta de ferramentas que possuiam _simplicidade_ ao meu ver, usei uma framework no lugar^[1]. O escolhido foi [chota](https://jenil.github.io/chota/), uma framework independente de um Dev. independente, nunca tinha ouvido falar mas... porquê não tentar?
 
-no caso foi usada: [chota](https://jenil.github.io/chota/) com [npm](https://www.npmjs.com/) ao invés do [yarn](https://yarnpkg.com/) por falta de conhecimento sobre a segunda opção
+no caso foi usada:  com [npm](https://www.npmjs.com/) ao invés do [yarn](https://yarnpkg.com/) por falta de conhecimento sobre a segunda opção
 
 Por ser tratar de um simples site profissional, uma página estática, não foi usado JavaScript na sua criação. Devido a necessidade da estilização "empressárial" neste ninho de formatos de sites, procurei algo que fosse do meu gosto do: _simples, rápido e bobo_, da[i o chota caiu como uma luva.
-
-
 
 ### O Chota
 
@@ -35,4 +33,4 @@ finalização introducao devsen.
 
 
 ---
-[1]: Fora que, também, mal tive contando com frameworks independentes - queria testar uma.
+[1]: Outro fator determinando foi o _tamanho_: a maior partes da ferramentas de páginas estáticas focam em grupos grandes de páginas ou até mesmo programas próprios destas, fazendo, assim, uma sobrecarga de Mbs desnecessária para algo <sub>pequeno</sub>.
