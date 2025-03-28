@@ -1,5 +1,3 @@
-# Site Profissional Pessoal
-
 ## Resumo
 
 > Trabalho escolar no qual deveria criar um site de profissão pessoal usando _HTML/CSS_, podendo usar uma framework ou não adicionalmente.
