@@ -1,15 +1,10 @@
-## Resumo
+# Sobre o repositório
 
-> Trabalho escolar no qual deveria criar um site de profissão pessoal usando _HTML/CSS_, podendo usar uma framework ou não adicionalmente.
-
-## Sobre o repositório
-
-Somente um trabalho escolar individual - do 3ª do ano - realizado no final do bimestre.
+Trabalho escolar - individual - no qual deveria criar um site de profissão pessoal usando _HTML/CSS_, podendo usar uma _framework_ ou não adicionalmente. Pertence ao 3ª do ano - realizado no final do 1º bimestre.
 
 ## Técnologias usadas:
-<!-- 
-* Orgulhosamente criado sem AI, somente com apoio de _outro_ humano 
--->
+
+<!-- * Orgulhosamente criado sem AI, somente com apoio de _outro_ humano -->
 * HTML
 * CSS ([chota](https://jenil.github.io/chota/))
 * [npm](https://www.npmjs.com/)
@@ -20,7 +15,7 @@ Somente um trabalho escolar individual - do 3ª do ano - realizado no final do b
 ```
 MIT License
 
-Copyright (c) 2025 gladstone-ac
+Copyright (c) 2025 Gladstone Almeida Carneiro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
