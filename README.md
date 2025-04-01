@@ -1,6 +1,6 @@
 # Sobre o repositório
 
-Trabalho escolar - individual - no qual deveria criar um site de profissão pessoal usando _HTML/CSS_, podendo usar uma _framework_ ou não adicionalmente. Pertence ao 3ª do ano - realizado no final do 1º bimestre.
+Trabalho escolar - individual - no qual deveria criar um site de profissão pessoal usando _HTML/CSS_, podendo usar uma _framework_ ou não adicionalmente. Pertence ao 3ª do ano - realizado no final do 1º bimestre na modalidade no Novo Ensino Médio (EMTI).
 
 ## Técnologias usadas:
 
