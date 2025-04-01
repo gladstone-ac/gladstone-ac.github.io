@@ -1,7 +1,5 @@
 2025-03-31 @igor:site entender o chota
-2025-03-31 @igor:site readme do repositorio
 2025-03-31 @igor:site +git +docx
 2025-03-31 @igor:site sobre mim
 2025-03-31 @igor:site habilidades div
 2025-03-31 @igor:site div contato
-2025-03-31 @igor:site hospedar site do github.io?
