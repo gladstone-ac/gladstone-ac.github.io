@@ -2,13 +2,15 @@
 
 Trabalho escolar - individual - no qual deveria criar um site de profissão pessoal usando _HTML/CSS_, podendo usar uma _framework_ ou não adicionalmente. Pertence ao 3ª do ano - realizado no final do 1º bimestre na modalidade no Novo Ensino Médio (EMTI).
 
-## Técnologias usadas:
+## Técnologias/Ferramentas usadas:
 
 <!-- * Orgulhosamente criado sem AI, somente com apoio de _outro_ humano -->
 * HTML
 * CSS ([chota](https://jenil.github.io/chota/))
 * [npm](https://www.npmjs.com/)
 * [Github Pages](https://pages.github.com/)
+* [SVG Repo](https://www.svgrepo.com/)
+* [Pexels](https://www.pexels.com/pt-br/)
  
 ## Licença
 
