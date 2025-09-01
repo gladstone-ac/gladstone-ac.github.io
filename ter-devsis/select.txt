@@ -1,0 +1,19 @@
+SELECT Nome, Bônus FROM `holerite` WHERE Turno = "Vespertino" AND Salário <= 1000;
+
+SELECT Nome, Salário FROM `holerite` WHERE Salário >= 2000;
+
+SELECT Nome, Salário, Turno FROM `holerite` WHERE Bônus <= 60;
+
+SELECT Nome, Salário FROM `holerite` WHERE Turno = "Vespertino" AND Bônus >= 60;
+
+SELECT COD, Nome, Salário FROM `holerite` WHERE Turno = "Matutino" AND  Dependentes >= 3;
+
+SELECT COD, Bônus, Adicional, Salário FROM `holerite` WHERE Turno = "Vespertino" AND Dependentes >= 2;
+
+SELECT Nome, Salário FROM `holerite` WHERE Turno = "Matutino" AND Salário <= 1000;
+
+SELECT Nome, Salário FROM `holerite` WHERE Turno = "Vespertino" AND Salário <= 2000;
+
+SELECT Nome, COD FROM `holerite` WHERE Turno = "Matutino";
+
+SELECT * FROM `holerite` WHERE Turno = "Vespertino";
